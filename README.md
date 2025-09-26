@@ -1,8 +1,9 @@
 # WEDE5020POEpart2
-# Hope fo Tomorrow Foundation Website Project Proposal
+# Hope fo Tomorrow Foundation Website:
 
 Hope for Tomorrow Foundation - Project Part 2
-Project Overview
+
+Project Overview:
 Website development for a Section 18A non-profit organization supporting education in Gauteng's underserved communities.
 
 
